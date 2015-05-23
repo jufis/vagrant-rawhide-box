@@ -9,7 +9,7 @@ Please install the following packages to your local linux environment:
 <pre>
 yum install vagrant
 yum install VirtualBox
-<pre>
+</pre>
 
 ##Fetch distribution
 
