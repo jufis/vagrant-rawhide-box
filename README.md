@@ -117,8 +117,13 @@ sudo rm -f /EMPTY
 ##References
 
 http://www.virtualbox.org/manual/ch04.html
+
 http://www.virtualbox.org/manual/ch02.html
+
 https://fedoraproject.org/wiki/Releases/Rawhide
+
 https://blog.engineyard.com/2014/building-a-vagrant-box
+
 http://www.skoblenick.com/vagrant/creating-a-custom-box-from-scratch/
+
 http://shop.oreilly.com/product/0636920026358.do
